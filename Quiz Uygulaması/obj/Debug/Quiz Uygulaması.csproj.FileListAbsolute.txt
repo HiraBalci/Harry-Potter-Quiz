@@ -1,0 +1,8 @@
+C:\Users\SOLITERA-I\Desktop\c sharp\Quiz Uygulaması\Quiz Uygulaması\bin\Debug\Quiz Uygulaması.exe.config
+C:\Users\SOLITERA-I\Desktop\c sharp\Quiz Uygulaması\Quiz Uygulaması\bin\Debug\Quiz Uygulaması.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\Quiz Uygulaması\Quiz Uygulaması\bin\Debug\Quiz Uygulaması.pdb
+C:\Users\SOLITERA-I\Desktop\c sharp\Quiz Uygulaması\Quiz Uygulaması\obj\Debug\Quiz Uygulaması.csproj.AssemblyReference.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\Quiz Uygulaması\Quiz Uygulaması\obj\Debug\Quiz Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\Quiz Uygulaması\Quiz Uygulaması\obj\Debug\Quiz Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\SOLITERA-I\Desktop\c sharp\Quiz Uygulaması\Quiz Uygulaması\obj\Debug\Quiz Uygulaması.exe
+C:\Users\SOLITERA-I\Desktop\c sharp\Quiz Uygulaması\Quiz Uygulaması\obj\Debug\Quiz Uygulaması.pdb
