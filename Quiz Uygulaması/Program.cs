@@ -95,7 +95,7 @@ namespace Quiz_Uygulaması
             var q5 = new Question("Hangisi Voldemort'un hortkuluklarından biri değildir?", new string[] { "a)Gryffindor'un kılıcı", "b)Tom Riddle'ın Günlüğü", "c)Helga Hufflepuff'ın Kupası", "d)Harry Potter" }, "a");
             var q6 = new Question("Hangi karakter safkan büyücüdür?", new string[] { "a)Severus Snape", "b)Ron Weasly", "c)Lord Voldemort", "d)Hermione Granger" }, "b");
             var q7 = new Question("Quidditch Dünya Kupası finali nasıl sonuçlanmıştır?", new string[] { "a)160-150", "b)180-170", "c)150-170", "d)170-160" }, "d");
-            var q8 = new Question("Lord Voldemort'un gücünü kendinde sandığı mürver asa gerçekte en son kime itaat ediyordu?", new string[] { "a)Draco Malfoy", "b)Albus Dumbledore", "c)Severus Snape", "d)Harry Potter" }, "d");
+            var q8 = new Question("Harry Potter ve Sırlar Odası filminde, Dobby’nin filmin sonunda sahip olduğu çorap hangi renktir?", new string[] { "a)Mavi", "b)Kırmızı", "c)Siyah", "d)Gri" }, "d");
             var q9 = new Question("Felsefe taşı hangi renkti?", new string[] { "a)kırmızı", "b)siyah", "c)yeşil", "d)mor" }, "a");
             var q10 = new Question("Ravenclaw'un sembolü nedir?", new string[] { "a)kaplan", "b)porsuk", "c)şahin", "d)karga" }, "c");
             var questions = new Question[] { q1, q2, q3, q4, q5, q6, q7, q8, q9, q10 };
